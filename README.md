@@ -1,6 +1,12 @@
 # 🎯 Solidity Lottery Smart Contract | Ethereum DApp for Beginners
 
-A beginner-friendly yet powerful **Ethereum Lottery Smart Contract** built using **Solidity**. This decentralized application (DApp) demonstrates key concepts of blockchain development including **fund handling, smart contract security, access control, and randomness** on Ethereum.
+![Solidity](https://img.shields.io/badge/Solidity-0.8.x-blue.svg)
+![License](https://img.shields.io/badge/License-GPL--3.0-green.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Made with ❤️ in Bangladesh](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Bangladesh-orange)
+
+A beginner-friendly yet powerful **Ethereum Lottery Smart Contract** built using **Solidity**...
 
 > ✅ Perfect for your **Web3 Portfolio**, GitHub profile, or as a base project for interviews and freelance work.
 
