@@ -107,6 +107,7 @@ contract Lottery {
         participants = new address payable ;
     }
 }
+```
 
 ## 🚀 Future Enhancements (Optional Ideas)
 
@@ -128,4 +129,3 @@ This project is part of my **open-source contributions** to help others learn an
 - [GitHub: @alnooristiak](https://github.com/alnooristiak)
 - [Twitter: @alnooristiak](https://twitter.com/alnooristiak)
 - [LinkedIn: @alnooristiak](https://linkedin.com/in/alnooristiak)
-```
